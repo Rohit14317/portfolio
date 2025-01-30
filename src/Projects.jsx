@@ -1,6 +1,6 @@
 import React from 'react'
-import './Projects.css'
-import image from '../assets/image3.jpg'
+import './components/Projects.css'
+import image from './assets/image3.jpg'
 
 const Projects = () => {
   return (
